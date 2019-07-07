@@ -26,3 +26,4 @@ PublishProfiles/
 *.log
 *.vspx
 App_Data/
+/Samples_2.1.0/.vs
